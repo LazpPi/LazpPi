@@ -3,6 +3,7 @@
 情報系大学院生 / 趣味は絵を描くことで、好きなものは珈琲です。
 大学院で情報科学・データ分析・認知科学などを幅広く学びながら、Pythonを中心に実践的なWebシステムやAI活用の開発に取り組んでいます。
 学内では大学公式イベントの賞金を元手に、完全セルフサービスの「ゼミカフェ」を立ち上げ、空間を快適にするための無人化・スマート化システムの開発と運用を行っております。
+また、現在は文化祭に向けてゼミの仲間と共同開発をしております。([戦略的じゃんけんゲーム](https://github.com/LazpPi/strategic_RPS))
 
 ---
 
@@ -63,8 +64,3 @@
 - **使用技術**: `Python`, `MediaPipe`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`, `SciPy`
 
 ---
-
-## 📊 GitHub Stats
-
-![LazpPi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazpPi&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazpPi&layout=compact&theme=radial)
